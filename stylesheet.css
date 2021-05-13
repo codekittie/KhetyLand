@@ -1,0 +1,57 @@
+.box1 {
+    color: lightgrey;
+    text-align: center;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+
+.box2 {
+    grid-column-start: 1;
+    grid-row-start: 3;
+    grid-row-end: 5;
+}
+
+body {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 60px;
+}
+
+.box3 {
+    color: lightpink;
+    text-align: center;
+
+}
+
+.box5 {
+    margin-left: auto;
+}
+
+.flip {
+    color: lightpink;
+    text-align: center;
+    margin-top: 350px; 
+    color: grey;
+    background-color: rgb(250, 211, 217);
+    width: 100%;
+    height: 100%;
+    padding-top: 20px;
+}
+
+#panel {
+    display: none;
+    color: lightpink;
+}
+
+.img {
+    width: 600px;
+    height: 400px;
+}
+
+.img2 {
+    width: 600px;
+    height: 300px;
+}
+
