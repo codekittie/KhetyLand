@@ -5,8 +5,8 @@ function myFunction2() {
     document.getElementById("panel").style.display = "none";
   }
   function myFunction3() {
-    document.getElementById("panel").style.display = "block";
+    document.getElementById("panel2").style.display = "block";
   }
 function myFunction4() {
-    document.getElementById("panel").style.display = "none";
+    document.getElementById("panel2").style.display = "none";
   }

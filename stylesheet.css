@@ -40,7 +40,7 @@ body {
     padding-top: 20px;
 }
 
-#panel {
+#panel, #panel2 {
     display: none;
     color: lightpink;
 }
