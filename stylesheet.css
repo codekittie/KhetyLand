@@ -100,3 +100,8 @@ h3 {
 .flip2:hover {
     background-color: lightgrey;
 }
+
+.container {
+    text-align: center;
+    max-width: 100%;
+}
