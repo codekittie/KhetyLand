@@ -55,6 +55,11 @@ body {
     height: 300px;
 }
 
+.img6, .img7 {
+    width: 600px;
+    height: 200px;
+}
+
 li {
     font-size: 20px;
 }
@@ -104,4 +109,11 @@ h3 {
 .container {
     text-align: center;
     max-width: 100%;
+}
+
+p {
+    background-color: grey;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
 }
