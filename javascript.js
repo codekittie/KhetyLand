@@ -10,3 +10,10 @@ function myFunction2() {
 function myFunction4() {
     document.getElementById("panel2").style.display = "none";
   }
+
+function myFunction5() {
+    document.getElementById("panel3").style.display = "block";
+  }
+function myFunction6() {
+    document.getElementById("panel3").style.display = "none";
+  }
